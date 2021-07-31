@@ -30,3 +30,6 @@
     - The pin can only be used once.
   - The voter then selects the 'Vote' button and a new page loads which allows them to select another button - "View Election Results",
   which displays the updated vote count after the voter would have voted.
+  
+  ![image](https://user-images.githubusercontent.com/84837582/127730402-0277bd9a-ec60-45e2-8e92-ba12574a133c.jpg)
+
