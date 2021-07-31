@@ -32,4 +32,10 @@
   which displays the updated vote count after the voter would have voted.
   
   ![image](https://user-images.githubusercontent.com/84837582/127730402-0277bd9a-ec60-45e2-8e92-ba12574a133c.jpg)
+  
+  ![image2](https://user-images.githubusercontent.com/84837582/127730532-cb4b855d-5420-4fd5-b087-8e86b7c4b0d2.jpg)
+  
+  ![image3](https://user-images.githubusercontent.com/84837582/127730540-8b211c12-3b92-4712-a398-7caf1f9f0932.jpg)
+
+
 
